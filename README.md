@@ -1,15 +1,9 @@
-# Lemonade-Technical-Assessment
+# Test Automation Challenge
 
-## Section 2: Coding Challenges Solutions
+## 1. Python Script: Automation Testing of a Login API
 
-This document provides solutions to the coding challenges related to automating testing, 
-React component unit testing, and related scenarios. The solutions adhere to best practices, 
-and aim to demonstrate the implementation in a clear and efficient manner.
-
-### 1. Python Script: Automating Testing of a Login API
-
-#### Description
-The Python script automates testing of a login API using the `requests` library. 
+### Description
+The Python script automates the testing of a login API using the `requests` library. 
 It includes test cases for both valid and invalid credentials, 
 demonstrating how to verify successful authentication and handle failure scenarios.
 
